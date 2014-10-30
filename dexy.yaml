@@ -1,0 +1,15 @@
+java:
+  - .java|idio|l
+
+# HTML output
+.md|jinja|markdown|easyhtml:
+  - java
+  - .jpg
+
+# PDF output - requires a latex compiler on your system
+.md|jinja|pandoc|hd|ft|latex:
+  - headers
+  - pandoc: { ext: .tex }
+  - java
+  - .jpg
+  - .tex|jinja
