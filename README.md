@@ -26,5 +26,5 @@ Run the following commands:
 
 You can see the result here:
 
-  * [PDF file](https://github.com/ArthurHoaro/dexy-doc-java-poc/blob/master/output-example/SAKARAH-001-classified-documentation.pdf?raw=true)
-  * [HTML file](https://htmlpreview.github.io/?https://github.com/ArthurHoaro/dexy-doc-java-poc/blob/master/output-example/SAKARAH-001-classified-documentation.html)
+  * [PDF file](https://github.com/ArthurHoaro/dexy-doc-java-poc/blob/master/output-example/001-classified-documentation.pdf?raw=true)
+  * [HTML file](https://rawgit.com/ArthurHoaro/dexy-doc-java-poc/master/output-example/001-classified-documentation.html)
