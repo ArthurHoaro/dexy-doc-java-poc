@@ -15,14 +15,14 @@ A few things I want to be able to perform:
 
 What needs to be worked out:
 
-  * [ ] Tables of content. There is [DocToc](https://github.com/thlorenz/doctoc). Anything with Dexy?
+  * [x] Tables of content. There is [DocToc](https://github.com/thlorenz/doctoc). Anything with Dexy?
   * [ ] Syntax highlight for code embedded in Markdown files.
-  * [ ] Make tables work
+  * [ ] Make tables work with HTML
   * [ ] HTML Templates
  
 ## Requirements
 
-  * Python 2.x
+  * Python 2.7
   * Dexy
   * LaTeX compiler
 

@@ -44,9 +44,3 @@ I ain't no writer, so I'd rather write a table:
 | Lyon       | 2 188 759  |  491 268   |
 | Marseille  | 1 720 941  |  850 636   |
 | Toulouse   | 1 250 251  |  447 340   |
-
-
-Deadline | Description
------------| ----------
-2013-02-xx | [A table, also nice, with an anchor](#milestone-1)
-2013-xx-xx | ...
