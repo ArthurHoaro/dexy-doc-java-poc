@@ -19,5 +19,12 @@ A few things I want to be able to perform:
 
 ## Generate documentation
 
+Run the following commands:
+
     dexy setup
     dexy
+
+You can see the result here:
+
+  * [PDF file](https://github.com/ArthurHoaro/dexy-doc-java-poc/blob/master/output-example/SAKARAH-001-classified-documentation.pdf?raw=true)
+  * [HTML file](https://htmlpreview.github.io/?https://github.com/ArthurHoaro/dexy-doc-java-poc/blob/master/output-example/SAKARAH-001-classified-documentation.html)
