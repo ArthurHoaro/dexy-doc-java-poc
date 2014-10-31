@@ -22,11 +22,11 @@ Sed et libero id urna congue tempor eu a lectus :
 
 Let's embed a bunch of Java from our snippet file:
 
-{{ d['snippets/SAKARAH-001-classified-documentation-snippets.java|idio|l']['bar'] }}
+{{ d['snippets/SAKARAH-001-classified-documentation-snippets.java']['bar'] }}
 
 And another one cause, ya know, we luv java:
 
-{{ d['snippets/SAKARAH-001-classified-documentation-snippets.java|idio|l']['foo'] }}
+{{ d['snippets/SAKARAH-001-classified-documentation-snippets.java']['foo'] }}
 
 ## Software design
 
