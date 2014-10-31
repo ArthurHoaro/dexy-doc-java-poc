@@ -1,12 +1,26 @@
+assets:
+    - .css
+    - .png
+    - .ico
+    - .jpg
+    - .eot
+    - .svg
+    - .ttf
+    - .woff 
+
 # HTML output
 .md|jinja|markdown|easyhtml:
-  - .java|idio
-  - .jpg
+    - .java|idio
+    - assets
+    - markdown:
+        tables: {}
+        toc: { anchorlink : true }
 
 # PDF output - requires a latex compiler on your system
 .md|jinja|pandoc|hd|ft|latex:
-  - headers
-  - pandoc: { ext: .tex }
-  - .java|idio|l
-  - .jpg
-  - .tex|jinja
+    - headers
+    - pandoc: {  ext: .tex }
+    - .java|idio|l
+    - assets
+    - .tex|jinja
+    - .md

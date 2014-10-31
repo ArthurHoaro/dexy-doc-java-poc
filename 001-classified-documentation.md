@@ -1,5 +1,7 @@
 # Documentation POC
 
+[TOC]
+
 ## Objet du document
 
 Lorem ipsum dolor sit amet, *consectetur adipiscing elit*. Duis dolor dolor, elementum a dapibus quis, pretium at tellus. Donec luctus a ante eget faucibus. Phasellus vitae felis urna. Phasellus ultrices odio ac ipsum efficitur tempus. In hac habitasse platea dictumst. Maecenas condimentum vehicula risus et pretium. Vivamus pretium cursus nisi eu varius. Donec iaculis ante sit amet ipsum vehicula, eget tristique dui volutpat.
@@ -32,3 +34,19 @@ And another one cause, ya know, we luv java:
 
 ![Architecture](img/img.jpg "Architecture")
 
+## Tables
+
+I ain't no writer, so I'd rather write a table:
+
+| Cities     | Urban area | Town       |
+|------------|------------|------------|
+| Paris      | 12 292 895 |  2 249 975 |
+| Lyon       | 2 188 759  |  491 268   |
+| Marseille  | 1 720 941  |  850 636   |
+| Toulouse   | 1 250 251  |  447 340   |
+
+
+Deadline | Description
+-----------| ----------
+2013-02-xx | [A table, also nice, with an anchor](#milestone-1)
+2013-xx-xx | ...

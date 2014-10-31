@@ -15,8 +15,10 @@ A few things I want to be able to perform:
 
 What needs to be worked out:
 
-  * Tables of content. There is [DocToc](https://github.com/thlorenz/doctoc). Anything with Dexy?
-  * Syntax highlight for code embedded in Markdown files.
+  * [ ] Tables of content. There is [DocToc](https://github.com/thlorenz/doctoc). Anything with Dexy?
+  * [ ] Syntax highlight for code embedded in Markdown files.
+  * [ ] Make tables work
+  * [ ] HTML Templates
  
 ## Requirements
 
