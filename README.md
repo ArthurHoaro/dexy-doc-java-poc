@@ -1,4 +1,4 @@
-# Dexy - Documentation Java- PoC
+# Dexy - Documentation Java - PoC
 
 A few tests with [Dexy](http://dexy.it).
 
@@ -10,6 +10,13 @@ A few things I want to be able to perform:
   * Display an image
   * Output as HTML and PDF
   * Templates (header/footer)
+
+## Improvements
+
+What needs to be worked out:
+
+  * Tables of content. There is [DocToc](https://github.com/thlorenz/doctoc). Anything with Dexy?
+  * Syntax highlight for code embedded in Markdown files.
  
 ## Requirements
 
